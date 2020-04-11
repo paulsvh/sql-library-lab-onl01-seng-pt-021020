@@ -4,4 +4,3 @@ create table series (
   author_id integer,
   subgenre_id integer
 );
-
